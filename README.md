@@ -1,4 +1,4 @@
-# Welcome to My Github!
+# <p align="center">Welcome to My Github!</p>
 ## About Me
 Hi! I'm a second-year Computer Science student with a focus on Artificial Intelligence. I’m passionate about exploring how AI can be applied to solve real-world problems. I'm always looking to collaborate on exciting projects and improve my skills!
 Feel free to check out my repositories, where I share my personal projects, learning experiments, and more. 
